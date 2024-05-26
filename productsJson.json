@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 799.99,
+    "features": true,
+    "rating": 4.8,
+
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 999.99,
+    "features": true,
+    "rating": 4.7,
+
+    "company": "dell"
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": 899.99,
+    "features": true,
+    "rating": 4.9,
+
+    "company": "apple"
+  },
+  {
+    "name": "MI 11 Ultra",
+    "price": 699.99,
+    "features": true,
+    "rating": 4.6,
+
+    "company": "mi"
+  },
+  {
+    "name": "Samsung Galaxy Tab S7",
+    "price": 649.99,
+    "features": true,
+    "rating": 4.8,
+
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 549.99,
+    "features": false,
+    "rating": 4.5,
+
+    "company": "dell"
+  },
+  {
+    "name": "Apple MacBook Pro",
+    "price": 1299.99,
+    "features": true,
+    "rating": 4.9,
+
+    "company": "apple"
+  },
+  {
+    "name": "MI Notebook Pro",
+    "price": 799.99,
+    "features": true,
+    "rating": 4.6,
+
+    "company": "mi"
+  },
+  {
+    "name": "Samsung Galaxy Buds",
+    "price": 149.99,
+    "features": true,
+    "rating": 4.7,
+
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Latitude 7420",
+    "price": 1199.99,
+    "features": true,
+    "rating": 4.7,
+
+    "company": "dell"
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "features": true,
+    "rating": 4.8,
+
+    "company": "apple"
+  },
+  {
+    "name": "MI Smart Band 6",
+    "price": 49.99,
+    "features": true,
+    "rating": 4.6,
+
+    "company": "mi"
+  },
+  {
+    "name": "Samsung Odyssey G7 Monitor",
+    "price": 699.99,
+    "features": true,
+    "rating": 4.9,
+
+    "company": "samsung"
+  },
+  {
+    "name": "Dell UltraSharp Monitor",
+    "price": 899.99,
+    "features": true,
+    "rating": 4.8,
+
+    "company": "dell"
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "price": 249.99,
+    "features": true,
+    "rating": 4.9,
+
+    "company": "apple"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Inception",
+    "description": "A mind-bending thriller by Christopher Nolan.",
+    "releaseYear": 2010
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "A story of hope and resilience in a prison.",
+    "releaseYear": 1994
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "A gripping tale of Batman facing the Joker.",
+    "releaseYear": 2008
+  },
+  {
+    "name": "Forrest Gump",
+    "description": "The life story of a man with a kind heart.",
+    "releaseYear": 1994
+  },
+  {
+    "name": "The Matrix",
+    "description": "A hacker discovers the true nature of reality.",
+    "releaseYear": 1999
+  },
+  {
+    "name": "Interstellar",
+    "description": "A journey through space and time to save humanity.",
+    "releaseYear": 2014
+  },
+  {
+    "name": "Gladiator",
+    "description": "A Roman general seeks revenge for his family.",
+    "releaseYear": 2000
+  },
+  {
+    "name": "Titanic",
+    "description": "A tragic love story set aboard the ill-fated ship.",
+    "releaseYear": 1997
+  },
+  {
+    "name": "The Godfather",
+    "description": "The saga of a crime family in America.",
+    "releaseYear": 1972
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "A series of interconnected stories in the criminal underworld.",
+    "releaseYear": 1994
+  }
+]
